@@ -1,0 +1,2 @@
+# Spotter-
+Crypto spotting bot
